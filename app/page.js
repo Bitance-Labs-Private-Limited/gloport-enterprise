@@ -67,8 +67,8 @@ export default function TelematicsLanding() {
   ];
 
   const whyTabs = [
-    { title:"German Engineering",  desc:"CarTelSol brings automotive-grade embedded systems, Linux-based platforms, PCB integration, and deep EV/HV system expertise.", img:"https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&q=80&w=900" },
-    { title:"India Optimised",     desc:"Engineered for Indian road conditions, mixed fleet environments, AIS-140 compliance, and the cost-performance demands of a scaling market.", img:"https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&q=80&w=900" },
+    { title:"German Engineering",  desc:"CarTelSol brings automotive-grade embedded systems, Linux-based platforms, PCB integration, and deep EV/HV system expertise.", img:"/image/pic5.jpg" },
+    { title:"India Optimised",     desc:"Engineered for Indian road conditions, mixed fleet environments, AIS-140 compliance, and the cost-performance demands of a scaling market.", img:"/image/pic2.jpeg" },
     { title:"Full-Stack Platform", desc:"From in-vehicle hardware to cloud dashboards and mobile apps — one cohesive platform with complete visibility across every vehicle.", img:"/image/fullstackplatform.jpg" },
   ];
 
